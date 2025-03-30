@@ -24,9 +24,7 @@ juego.
 
 Para finalizar, esta versión de los programas creo tiene alguna uti-
 lidad para mostrar el tema de programación orientada a objetos y 
-darle una aplicación práctica de modo inmediato. La declaración de
-clases se repite en ambos archivos sólo por comodidad, aunque esta
-duplicación es redundante.
+darle una aplicación práctica de modo inmediato.
 
 Espero les sea útil y divertido.
 
