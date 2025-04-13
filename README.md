@@ -1,3 +1,6 @@
+
+![Búsqueda del Tesoro](ChatGPT Image 13 abr 2025, 02_36_39 p.m..png)
+
 ---Uso de los programas---
 
 La idea de estos programas viene de implementar en una escuela un
